@@ -1,0 +1,10 @@
+DebugFlag=-g
+
+testll: testLL.o 
+	g++ $(DebugFlag) -o testll testLL.o 
+	
+testLL.o: testLL.cpp DblLink.h Node.h DblLinkItr.h
+	g++ $(DebugFlag) -c testLL.cpp
+
+clean:
+	rm -f *.o testll

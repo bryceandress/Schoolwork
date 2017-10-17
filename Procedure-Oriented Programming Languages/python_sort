@@ -1,0 +1,41 @@
+Enter numbers for first array a letter to stop: 9
+Enter numbers for first array a letter to stop: 4
+Enter numbers for first array a letter to stop: 1
+Enter numbers for first array a letter to stop: 2
+Enter numbers for first array a letter to stop: 7
+Enter numbers for first array a letter to stop: 4
+Enter numbers for first array a letter to stop: 0
+Enter numbers for first array a letter to stop: d
+First Array
+[9, 4, 1, 2, 7, 4, 0]
+
+
+Enter numbers for second array a letter to stop: 9
+Enter numbers for second array a letter to stop: 5
+Enter numbers for second array a letter to stop: 3
+Enter numbers for second array a letter to stop: 1
+Enter numbers for second array a letter to stop: 8
+Enter numbers for second array a letter to stop: 4
+Enter numbers for second array a letter to stop: d
+Second Array
+[9, 5, 3, 1, 8, 4]
+
+
+First Array Sorted
+[0, 1, 2, 4, 4, 7, 9]
+
+
+Second Array Sorted
+[1, 3, 4, 5, 8, 9]
+
+
+Merged Array Sorted
+[0, 1, 1, 2, 3, 4, 4, 4, 5, 7, 8, 9, 9]
+
+Binary Array Search
+Enter number you would like to search for: 4
+5
+Linear Array Search
+Enter a number you would like to search for: 9
+11
+

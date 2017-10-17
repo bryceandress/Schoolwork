@@ -1,0 +1,1 @@
+Print parallelArraysPointerRecursive has a bug where it sometimes prints INF as the total. I believe this happens when the input value is a double

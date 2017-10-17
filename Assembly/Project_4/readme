@@ -1,0 +1,3 @@
+As of submission the searchEmployees function corrupts the stack. When working ideally the function should prompt user for a name to search. If the name exists print that
+employees record. If the name is not found in the stack the program should print out "did not found and prompt again". If Ctrl-D is pressed the program should exit gracefully since 
+searchEmployees is the last function.

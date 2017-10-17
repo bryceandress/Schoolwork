@@ -1,0 +1,8 @@
+http://acad.kutztown.edu/~bandr670/Project4/html/index.html
+
+BUGS:
+The Letter search feature appears to be working after many changes. Code is documented to what I believe is happening, there my be edge cases.
+
+The functors were not able to be added in the State.h last time I tested it. I have unfortuantely ran out of time to further test. They are 
+currently located in the p4.cpp file and appear to be working fine. If you get the chance to look into this I would really like to know why it would
+not compile. (It very well may compile right away, a lot of things have changed since I have last tried them in the State.h file).
